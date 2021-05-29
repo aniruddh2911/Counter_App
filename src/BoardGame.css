@@ -1,0 +1,20 @@
+.Board__Game {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+.Number__Card {
+    border: 2px solid lightcyan;
+    background-color: lightcyan;
+    padding: 50px 100px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+
+.Board__Button {
+    background-color: #5bc0de;
+}
